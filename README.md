@@ -20,3 +20,30 @@ Given a date in the format `DD MM YYYY`, this program:
 - Calendar transition logic (pre/post October 15, 1582)
 - JDN calculation using integer math
 - Mapping JDN to weekday names
+
+
+---
+
+## Program 2: Date Difference Calculator
+
+### Description
+This program accepts **two dates** and calculates:
+- The **number of days** between them (absolute value).
+- The **day of the week** for both dates.
+
+### Features:
+- Supports dates across the Julian and Gregorian calendars.
+- Uses JDN formula with floating-point precision.
+- Includes input validation for invalid dates.
+
+
+---
+
+## How to Compile and Run
+Compile using a C++ compiler:
+
+## IDE USED 
+Visual Studio 2022
+
+
+
